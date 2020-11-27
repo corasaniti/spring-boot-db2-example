@@ -59,13 +59,11 @@ http://localhost:8080/product/new
 
 Edit Product {id}
 http://localhost:8080/product/edit{id}
-example
 http://localhost:8080/product/edit/1
 http://localhost:8080/product/edit/2
 
 Delete Product {id}
 http://localhost:8080/product/delete/{id}
-example
 http://localhost:8080/product/delete/1
 http://localhost:8080/product/delete/2
 ```
